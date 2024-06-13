@@ -41,7 +41,7 @@ public class OrdenacaoPessoas {
         System.out.println(ordenacaoPessoas.pessoaList);
 
         System.out.println(ordenacaoPessoas.ordenarPorIdade());
-        
+
         System.out.println(ordenacaoPessoas.ordenarPorAltura());
     }
 }
